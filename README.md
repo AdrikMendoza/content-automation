@@ -11,7 +11,8 @@ Todo corre local. Tu voz nunca sale de tu computadora.
 | Pieza | Qué hace |
 |---|---|
 | **Claude Code** + skills en `.claude/skills/` | Elige el tema (`temas`), escribe el guion y arma el video (`reel`), configura tu marca (`configurar`) |
-| `tts.py` | Texto → `voz.wav` con tu voz (Chatterbox de Resemble AI, MIT) + `tiempos.json` con el tiempo de cada palabra |
+| `tts.py` | Texto → `voz.wav` con tu voz + `tiempos.json` con el tiempo de cada palabra |
+| `instalar_chatterbox.py` | Baja el modelo de voz [Chatterbox](https://huggingface.co/spaces/ResembleAI/Chatterbox-Multilingual-TTS-es-mx-latam) (Resemble AI, MIT) de su fuente oficial y le pone un parche de seguridad |
 | `plantilla/compose.mjs` | Genera las animaciones (HyperFrames + GSAP): cámara sobre un tablero 3D, tarjetas, onda que reacciona a la voz, karaoke |
 | `plantilla/sfx.py`, `plantilla/mezcla.py` | Efectos sincronizados con cada movimiento y mezcla final a -14 LUFS |
 | `elegir_musica.py` | Elige música de tu catálogo con licencia, sin repetir |
@@ -71,7 +72,7 @@ energía). En la mañana revisa `reels/AAAA-MM-DD-agente/resumen.md`.
 ## Licencias
 
 - Código de este repo: MIT (`LICENSE`).
-- `vendor/chatterbox/`: código de Resemble AI, MIT. Los pesos del modelo se bajan de Hugging Face (MIT).
+- Chatterbox (Resemble AI, MIT): no viene en este repo; `instalar_chatterbox.py` baja el código del [Space oficial](https://huggingface.co/spaces/ResembleAI/Chatterbox-Multilingual-TTS-es-mx-latam) en una versión fija y los pesos de Hugging Face, solo `.safetensors`.
 - `sfx/*.wav`: efectos CC0 (dominio público), autor y fuente de cada uno en `sfx/LICENCIAS.md`.
 - Fuentes Inter, Inter Tight y JetBrains Mono: SIL Open Font License 1.1.
 - No incluye música: agrega la tuya con licencia clara (ver `sfx/LICENCIAS.md`).

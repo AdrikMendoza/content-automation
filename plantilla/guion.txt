@@ -1,17 +1,17 @@
 ¿Este video? No lo grabé. No lo edité.
 ¿Y esta voz?
-…tampoco la grabé. Bueno, es mía… pero la hizo mi tarjeta gráfica.
-Lo hizo un agente que armé yo.
+…tampoco la grabé. Es mi voz… pero la generó mi tarjeta gráfica.
+Lo hizo un agente que configuré.
 Una IA que trabaja sola, paso por paso.
 
 Uno. La 1 de la mañana.
-Mi agente de Claude se despierta solo.
-Investiga temas de IA… y escribe 3 guiones.
+Un agente de Claude se activa solo.
+Investiga temas nuevos… y escribe 3 guiones.
 
 Dos. La voz.
 Un modelo de Hugging Face escucha 10 segundos de mi voz… y la clona.
-Las primeras pruebas sonaban a robot de banco.
-Le enseñé a hacer pausas… y a meterle energía. ¡Así!
+Las primeras pruebas sonaban robóticas.
+Después aprendió a hacer pausas… y a hablar con energía. ¡Así!
 
 Tres. El video.
 Animaciones, efectos y subtítulos. Todo es código.
@@ -19,13 +19,13 @@ Cada palabra aparece justo cuando la digo… como esta.
 
 Cuatro. La música.
 La elige sola, sin copyright.
-Porque si le pego una canción famosa… la plataforma me silencia el video.
+Porque si usas una canción famosa… la plataforma silencia el video.
 
 Cinco. El revisor.
 Revisa textos cortados, volumen y colores.
 Si algo falla… Claude lo arregla y lo vuelve a hacer.
 
-En la mañana… tengo 3 videos esperándome.
-La IA hace la chamba pesada…
-¡y yo elijo cuál sube, amigo!
+En la mañana… hay 3 videos listos.
+La IA hace el trabajo pesado…
+¡y tú eliges cuál sube!
 Sígueme para más ideas así.

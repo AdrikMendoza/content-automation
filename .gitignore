@@ -32,3 +32,6 @@ agente/logs/
 .env
 .env.*
 .claude/settings.local.json
+
+# Chatterbox code is downloaded from the official Space by instalar_chatterbox.py
+vendor/

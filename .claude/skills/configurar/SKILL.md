@@ -53,6 +53,7 @@ Mostrar cada comando antes de correrlo. Windows:
    `python -m venv "%LOCALAPPDATA%\content-automation\venv"` y
    `"%LOCALAPPDATA%\content-automation\venv\Scripts\python.exe" -m pip install -r requirements.txt`.
 3. `npm install`.
+3b. Código del modelo de voz: `python instalar_chatterbox.py` (lo baja del Space oficial de Resemble AI, versión fija, y aplica el parche de solo `.safetensors`).
 4. Modelo de voz: lo baja `tts.py` la primera vez, **solo `.safetensors` de `ResembleAI`**. Verificar en la salida el
    nombre del repo y la extensión.
 

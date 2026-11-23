@@ -15,7 +15,7 @@ usuario. Claude escribe el tema y el guion con las skills de `.claude/skills/`; 
 | `plantilla/` | Reel base: `compose.mjs` (animación), `sfx.py` (efectos), `mezcla.py` (mezcla). Copiar por reel |
 | `elegir_musica.py` | Música del catálogo `sfx/musica/catalogo.json`, por mood, sin repetir |
 | `capturar.mjs` | Captura de páginas públicas para mostrar en el video |
-| `vendor/chatterbox/` | Código de Resemble AI (MIT), parcheado para cargar solo safetensors |
+| `instalar_chatterbox.py` | Baja Chatterbox (Resemble AI, MIT) del Space oficial a `vendor/chatterbox/` y aplica `parches/` (solo safetensors) |
 | `voice/` | Muestra de voz del usuario y `voice.json`. **Nunca se sube a git** |
 | `agente/` | Agente nocturno (Programador de tareas) |
 

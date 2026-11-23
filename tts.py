@@ -217,23 +217,23 @@ def main() -> int:
     ap.add_argument("--tiempos", type=Path, help="timing json (default: tiempos.json next to salida)")
     ap.add_argument("--ref", type=Path, help="override the voice sample (default: 'active' in voice/voice.json)")
     ap.add_argument("--no-cache", action="store_true", help="always recompute the voice fingerprint")
-    ap.add_argument("--exaggeration", type=float, default=1.1)
-    ap.add_argument("--exag-hi", type=float, default=1.25, help='exaggeration for lines starting with "[+]" (punchlines)')
-    ap.add_argument("--exag-lo", type=float, default=1.0, help='exaggeration for lines starting with "[-]" (calm)')
-    ap.add_argument("--locutor-nivel", type=float, default=0.5, help="presenter colour amount, 0-1 (0.5 = half)")
+    ap.add_argument("--exaggeration", type=float, default=0.5)
+    ap.add_argument("--exag-hi", type=float, default=0.7, help='exaggeration for lines starting with "[+]" (punchlines)')
+    ap.add_argument("--exag-lo", type=float, default=0.45, help='exaggeration for lines starting with "[-]" (calm)')
+    ap.add_argument("--locutor-nivel", type=float, default=0.0, help="presenter colour amount, 0-1 (0.5 = half)")
     ap.add_argument("--no-locutor", dest="locutor", action="store_false",
                     help="skip the presenter colour (warmth, tighter compression, tiny room); on by default since 2026-11-19")
     ap.add_argument("--cfg-weight", type=float, default=0.5)
-    ap.add_argument("--temperature", type=float, default=0.85)
+    ap.add_argument("--temperature", type=float, default=0.8)
     ap.add_argument("--seed", type=int, default=1234)
     ap.add_argument("--lufs", type=float, default=-14.0)
-    ap.add_argument("--speed", type=float, default=1.2, help="tempo multiplier, pitch preserved")
+    ap.add_argument("--speed", type=float, default=1.0, help="tempo multiplier, pitch preserved")
     ap.add_argument("--stretch", choices=["atempo", "rubberband"], default="atempo",
                     help="time-stretch method for --speed (atempo sounded less robotic in tests)")
     ap.add_argument("--pitch", type=float, default=0.0, help="pitch shift in semitones, duration unchanged")
     ap.add_argument("--pitch-method", choices=["timbre", "brillo"], default="timbre",
                     help="timbre: rubberband, formants preserved; brillo: asetrate (formants move too)")
-    ap.add_argument("--pause-scale", type=float, default=0.55,
+    ap.add_argument("--pause-scale", type=float, default=1.0,
                     help="multiply every meaning-based pause (PAUSES); <1 = tighter, >1 = more air")
     ap.add_argument("--no-studio", dest="studio", action="store_false",
                     help="skip the studio chain (EQ, de-esser, compression, light denoise)")

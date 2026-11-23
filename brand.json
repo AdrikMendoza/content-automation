@@ -24,8 +24,16 @@
  },
  "voz": {
   "acento": "es-mx-latam",
-  "velocidad": 1.2
+  "velocidad": 1.0
  },
- "lienzo": { "ancho": 1080, "alto": 1920, "fps": 30 },
- "audio": { "lufs": -14, "true_peak": -1, "musica_lufs": -19 }
+ "lienzo": {
+  "ancho": 1080,
+  "alto": 1920,
+  "fps": 30
+ },
+ "audio": {
+  "lufs": -14,
+  "true_peak": -1,
+  "musica_lufs": -19
+ }
 }

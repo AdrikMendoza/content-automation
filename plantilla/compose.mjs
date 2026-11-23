@@ -231,7 +231,7 @@ const CODE = ["// compose.mjs", "slam(\"#hook\", 0.08);", "cue(0.08, \"whoosh\")
   const t2 = A(41);
   maskOut("#closer1", t2 - 0.2); hideAt("#closer1", t2 + 0.02); cue(t2 - 0.2, "whoosh", 0.5, 0.2);
   showAt("#closer2", t2); maskIn("#closer2", t2, 0.12, 0.28);
-  const tCu = W(41, "cual", t2 + 0.5); blk("#blk6", tCu); punch("#punch6", W(41, "amigo", tCu + 0.6), 1.1, "30% 50%");
+  const tCu = W(41, "cual", t2 + 0.5); blk("#blk6", tCu); punch("#punch6", W(41, "sube", tCu + 0.4), 1.1, "30% 50%");
   const tCta = A(42);
   fadeUp("#follow6", tCta, 30, 0.3); cue(tCta, "pop", 0.6, 1300);
   tl(`tl.fromTo("#sig6",{opacity:0,x:-20},{opacity:1,x:0,duration:0.3,ease:E},${f3(tCta + 0.25)});`);
@@ -321,8 +321,8 @@ const FRONT = [
   front(4, `${ttl(4, "La", "música.")}`),
   front(5, `${ttl(5, "El", "revisor.")}`),
   front(6, `<div class="am mono" id="am6">EN LA MAÑANA…</div>
-    <div class="closer" id="closer1"><span class="mask"><span class="line">La IA hace</span></span><span class="mask"><span class="line">la chamba</span></span><span class="mask"><span class="line">pesada…</span></span></div>
-    <div class="closer" id="closer2"><span class="mask"><span class="line">¡Y yo elijo</span></span><span class="mask"><span class="line"><span class="hl"><span class="blk" id="blk6"></span>cuál sube,</span></span></span><span class="mask"><span class="line">amigo!</span></span></div>
+    <div class="closer" id="closer1"><span class="mask"><span class="line">La IA hace</span></span><span class="mask"><span class="line">el trabajo</span></span><span class="mask"><span class="line">pesado…</span></span></div>
+    <div class="closer" id="closer2"><span class="mask"><span class="line">¡Y tú eliges</span></span><span class="mask"><span class="line"><span class="hl"><span class="blk" id="blk6"></span>cuál sube!</span></span></span></div>
     <div class="follow mono" id="follow6">${BRAND.cta}</div><div class="sig" id="sig6">${BRAND.nombre}<span id="bcur6"></span></div>`),
 ];
 const HIDDEN = ["#no0a", "#no0b", "#h0b", "#h0c", "#h0d", "#wave0", "#tag0", "#gpu0", "#def0", "#clock1", "#cchip1", "#src1a", "#src1b", "#src1c", "#doc1a", "#doc1b", "#doc1c", "#g3x1",
