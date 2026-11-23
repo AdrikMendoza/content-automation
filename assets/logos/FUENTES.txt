@@ -1,0 +1,3 @@
+Logos de apps que aparecen en tus videos.
+Regla: solo del kit de prensa o página de marca oficial de cada empresa, en SVG o PNG, sin modificar.
+Anota una línea por logo:  archivo | URL de origen | fecha

@@ -1,0 +1,34 @@
+# your voice never leaves your computer
+voice/*
+!voice/LEEME.md
+!voice/voice.json
+
+# audio / video / model weights / outputs
+**/*.mp3
+**/*.wav
+!sfx/*.wav
+**/*.m4a
+**/*.mp4
+**/*.mov
+**/*.jpg
+**/*.safetensors
+**/*.pt
+**/*.bin
+reels/*
+!reels/.gitkeep
+pruebas/
+sfx/musica/*
+!sfx/musica/catalogo.json
+plantilla/index.html
+plantilla/sfx_cues.json
+
+# tooling
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.hyperframes/
+agente/logs/
+.env
+.env.*
+.claude/settings.local.json

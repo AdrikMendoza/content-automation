@@ -1,0 +1,2292 @@
+{
+ "audio": "voz.wav",
+ "duracion": 61.951,
+ "lufs_objetivo": -14.0,
+ "lufs_medido": -14.0,
+ "true_peak_dbtp": -1.15,
+ "muestra_voz": "mi_voz.wav",
+ "exaggeration": 1.1,
+ "cfg_weight": 0.5,
+ "speed": 1.2,
+ "pause_scale": 0.55,
+ "exag_hi": 1.25,
+ "exag_lo": 1.0,
+ "locutor": true,
+ "locutor_nivel": 0.5,
+ "studio": true,
+ "stretch": "atempo",
+ "pitch_semitonos": 0.0,
+ "pitch_metodo": "timbre",
+ "palabras_por_minuto": 175,
+ "modelo": "ResembleAI/Chatterbox-Multilingual-es-mx-latam/t3_es_mx_latam.safetensors",
+ "frases": [
+  {
+   "i": 0,
+   "texto": "¿Este video?",
+   "inicio": 0.083,
+   "fin": 0.786,
+   "palabras": [
+    {
+     "w": "¿Este",
+     "inicio": 0.083,
+     "fin": 0.403
+    },
+    {
+     "w": "video?",
+     "inicio": 0.403,
+     "fin": 0.786
+    }
+   ],
+   "texto_pantalla": "¿Este video?",
+   "palabras_pantalla": [
+    {
+     "w": "¿Este",
+     "inicio": 0.083,
+     "fin": 0.403
+    },
+    {
+     "w": "video?",
+     "inicio": 0.403,
+     "fin": 0.786
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "texto": "No lo grabé.",
+   "inicio": 0.951,
+   "fin": 1.759,
+   "palabras": [
+    {
+     "w": "No",
+     "inicio": 0.951,
+     "fin": 1.153
+    },
+    {
+     "w": "lo",
+     "inicio": 1.153,
+     "fin": 1.355
+    },
+    {
+     "w": "grabé.",
+     "inicio": 1.355,
+     "fin": 1.759
+    }
+   ],
+   "texto_pantalla": "No lo grabé.",
+   "palabras_pantalla": [
+    {
+     "w": "No",
+     "inicio": 0.951,
+     "fin": 1.153
+    },
+    {
+     "w": "lo",
+     "inicio": 1.153,
+     "fin": 1.355
+    },
+    {
+     "w": "grabé.",
+     "inicio": 1.355,
+     "fin": 1.759
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "texto": "No lo edité.",
+   "inicio": 1.869,
+   "fin": 2.563,
+   "palabras": [
+    {
+     "w": "No",
+     "inicio": 1.869,
+     "fin": 2.042
+    },
+    {
+     "w": "lo",
+     "inicio": 2.042,
+     "fin": 2.216
+    },
+    {
+     "w": "edité.",
+     "inicio": 2.216,
+     "fin": 2.563
+    }
+   ],
+   "texto_pantalla": "No lo edité.",
+   "palabras_pantalla": [
+    {
+     "w": "No",
+     "inicio": 1.869,
+     "fin": 2.042
+    },
+    {
+     "w": "lo",
+     "inicio": 2.042,
+     "fin": 2.216
+    },
+    {
+     "w": "edité.",
+     "inicio": 2.216,
+     "fin": 2.563
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "texto": "¿Y esta voz?",
+   "inicio": 2.755,
+   "fin": 3.351,
+   "palabras": [
+    {
+     "w": "¿Y",
+     "inicio": 2.755,
+     "fin": 2.863
+    },
+    {
+     "w": "esta",
+     "inicio": 2.863,
+     "fin": 3.134
+    },
+    {
+     "w": "voz?",
+     "inicio": 3.134,
+     "fin": 3.351
+    }
+   ],
+   "texto_pantalla": "¿Y esta voz?",
+   "palabras_pantalla": [
+    {
+     "w": "¿Y",
+     "inicio": 2.755,
+     "fin": 2.863
+    },
+    {
+     "w": "esta",
+     "inicio": 2.863,
+     "fin": 3.134
+    },
+    {
+     "w": "voz?",
+     "inicio": 3.134,
+     "fin": 3.351
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "texto": "…tampoco la grabé.",
+   "inicio": 3.543,
+   "fin": 4.361,
+   "palabras": [
+    {
+     "w": "…tampoco",
+     "inicio": 3.543,
+     "fin": 3.928
+    },
+    {
+     "w": "la",
+     "inicio": 3.928,
+     "fin": 4.072
+    },
+    {
+     "w": "grabé.",
+     "inicio": 4.072,
+     "fin": 4.361
+    }
+   ],
+   "texto_pantalla": "…tampoco la grabé.",
+   "palabras_pantalla": [
+    {
+     "w": "…tampoco",
+     "inicio": 3.543,
+     "fin": 3.928
+    },
+    {
+     "w": "la",
+     "inicio": 3.928,
+     "fin": 4.072
+    },
+    {
+     "w": "grabé.",
+     "inicio": 4.072,
+     "fin": 4.361
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "texto": "Bueno, es mía…",
+   "inicio": 4.471,
+   "fin": 5.28,
+   "palabras": [
+    {
+     "w": "Bueno,",
+     "inicio": 4.471,
+     "fin": 4.844
+    },
+    {
+     "w": "es",
+     "inicio": 4.844,
+     "fin": 5.031
+    },
+    {
+     "w": "mía…",
+     "inicio": 5.031,
+     "fin": 5.28
+    }
+   ],
+   "texto_pantalla": "Bueno, es mía…",
+   "palabras_pantalla": [
+    {
+     "w": "Bueno,",
+     "inicio": 4.471,
+     "fin": 4.844
+    },
+    {
+     "w": "es",
+     "inicio": 4.844,
+     "fin": 5.031
+    },
+    {
+     "w": "mía…",
+     "inicio": 5.031,
+     "fin": 5.28
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "texto": "pero la hizo mi tarjeta gráfica.",
+   "inicio": 5.555,
+   "fin": 6.995,
+   "palabras": [
+    {
+     "w": "pero",
+     "inicio": 5.555,
+     "fin": 5.78
+    },
+    {
+     "w": "la",
+     "inicio": 5.78,
+     "fin": 5.915
+    },
+    {
+     "w": "hizo",
+     "inicio": 5.915,
+     "fin": 6.14
+    },
+    {
+     "w": "mi",
+     "inicio": 6.14,
+     "fin": 6.275
+    },
+    {
+     "w": "tarjeta",
+     "inicio": 6.275,
+     "fin": 6.635
+    },
+    {
+     "w": "gráfica.",
+     "inicio": 6.635,
+     "fin": 6.995
+    }
+   ],
+   "texto_pantalla": "pero la hizo mi tarjeta gráfica.",
+   "palabras_pantalla": [
+    {
+     "w": "pero",
+     "inicio": 5.555,
+     "fin": 5.78
+    },
+    {
+     "w": "la",
+     "inicio": 5.78,
+     "fin": 5.915
+    },
+    {
+     "w": "hizo",
+     "inicio": 5.915,
+     "fin": 6.14
+    },
+    {
+     "w": "mi",
+     "inicio": 6.14,
+     "fin": 6.275
+    },
+    {
+     "w": "tarjeta",
+     "inicio": 6.275,
+     "fin": 6.635
+    },
+    {
+     "w": "gráfica.",
+     "inicio": 6.635,
+     "fin": 6.995
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "texto": "Lo hizo un agente que armé yo.",
+   "inicio": 7.188,
+   "fin": 8.414,
+   "palabras": [
+    {
+     "w": "Lo",
+     "inicio": 7.188,
+     "fin": 7.31
+    },
+    {
+     "w": "hizo",
+     "inicio": 7.31,
+     "fin": 7.515
+    },
+    {
+     "w": "un",
+     "inicio": 7.515,
+     "fin": 7.637
+    },
+    {
+     "w": "agente",
+     "inicio": 7.637,
+     "fin": 7.923
+    },
+    {
+     "w": "que",
+     "inicio": 7.923,
+     "fin": 8.087
+    },
+    {
+     "w": "armé",
+     "inicio": 8.087,
+     "fin": 8.292
+    },
+    {
+     "w": "yo.",
+     "inicio": 8.292,
+     "fin": 8.414
+    }
+   ],
+   "texto_pantalla": "Lo hizo un agente que armé yo.",
+   "palabras_pantalla": [
+    {
+     "w": "Lo",
+     "inicio": 7.188,
+     "fin": 7.311
+    },
+    {
+     "w": "hizo",
+     "inicio": 7.311,
+     "fin": 7.515
+    },
+    {
+     "w": "un",
+     "inicio": 7.515,
+     "fin": 7.638
+    },
+    {
+     "w": "agente",
+     "inicio": 7.638,
+     "fin": 7.924
+    },
+    {
+     "w": "que",
+     "inicio": 7.924,
+     "fin": 8.087
+    },
+    {
+     "w": "armé",
+     "inicio": 8.087,
+     "fin": 8.291
+    },
+    {
+     "w": "yo.",
+     "inicio": 8.291,
+     "fin": 8.414
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "texto": "Una inteligencia artificial que trabaja sola, paso por paso.",
+   "inicio": 8.607,
+   "fin": 11.336,
+   "palabras": [
+    {
+     "w": "Una",
+     "inicio": 8.607,
+     "fin": 8.792
+    },
+    {
+     "w": "inteligencia",
+     "inicio": 8.792,
+     "fin": 9.393
+    },
+    {
+     "w": "artificial",
+     "inicio": 9.393,
+     "fin": 9.902
+    },
+    {
+     "w": "que",
+     "inicio": 9.902,
+     "fin": 10.087
+    },
+    {
+     "w": "trabaja",
+     "inicio": 10.087,
+     "fin": 10.457
+    },
+    {
+     "w": "sola,",
+     "inicio": 10.457,
+     "fin": 10.688
+    },
+    {
+     "w": "paso",
+     "inicio": 10.688,
+     "fin": 10.919
+    },
+    {
+     "w": "por",
+     "inicio": 10.919,
+     "fin": 11.104
+    },
+    {
+     "w": "paso.",
+     "inicio": 11.104,
+     "fin": 11.336
+    }
+   ],
+   "texto_pantalla": "Una IA que trabaja sola, paso por paso.",
+   "palabras_pantalla": [
+    {
+     "w": "Una",
+     "inicio": 8.607,
+     "fin": 8.894
+    },
+    {
+     "w": "IA",
+     "inicio": 8.894,
+     "fin": 9.11
+    },
+    {
+     "w": "que",
+     "inicio": 9.11,
+     "fin": 9.397
+    },
+    {
+     "w": "trabaja",
+     "inicio": 9.397,
+     "fin": 9.971
+    },
+    {
+     "w": "sola,",
+     "inicio": 9.971,
+     "fin": 10.331
+    },
+    {
+     "w": "paso",
+     "inicio": 10.331,
+     "fin": 10.69
+    },
+    {
+     "w": "por",
+     "inicio": 10.69,
+     "fin": 10.977
+    },
+    {
+     "w": "paso.",
+     "inicio": 10.977,
+     "fin": 11.336
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "texto": "Uno.",
+   "inicio": 11.748,
+   "fin": 12.299,
+   "palabras": [
+    {
+     "w": "Uno.",
+     "inicio": 11.748,
+     "fin": 12.299
+    }
+   ],
+   "texto_pantalla": "Uno.",
+   "palabras_pantalla": [
+    {
+     "w": "Uno.",
+     "inicio": 11.748,
+     "fin": 12.299
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "texto": "La una de la mañana.",
+   "inicio": 12.409,
+   "fin": 13.582,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 12.409,
+     "fin": 12.585
+    },
+    {
+     "w": "una",
+     "inicio": 12.585,
+     "fin": 12.82
+    },
+    {
+     "w": "de",
+     "inicio": 12.82,
+     "fin": 12.996
+    },
+    {
+     "w": "la",
+     "inicio": 12.996,
+     "fin": 13.172
+    },
+    {
+     "w": "mañana.",
+     "inicio": 13.172,
+     "fin": 13.582
+    }
+   ],
+   "texto_pantalla": "La 1 de la mañana.",
+   "palabras_pantalla": [
+    {
+     "w": "La",
+     "inicio": 12.409,
+     "fin": 12.605
+    },
+    {
+     "w": "1",
+     "inicio": 12.605,
+     "fin": 12.735
+    },
+    {
+     "w": "de",
+     "inicio": 12.735,
+     "fin": 12.93
+    },
+    {
+     "w": "la",
+     "inicio": 12.93,
+     "fin": 13.126
+    },
+    {
+     "w": "mañana.",
+     "inicio": 13.126,
+     "fin": 13.582
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "texto": "Mi agente de Clod se despierta solo.",
+   "inicio": 13.775,
+   "fin": 15.579,
+   "palabras": [
+    {
+     "w": "Mi",
+     "inicio": 13.775,
+     "fin": 13.925
+    },
+    {
+     "w": "agente",
+     "inicio": 13.925,
+     "fin": 14.276
+    },
+    {
+     "w": "de",
+     "inicio": 14.276,
+     "fin": 14.427
+    },
+    {
+     "w": "Clod",
+     "inicio": 14.427,
+     "fin": 14.678
+    },
+    {
+     "w": "se",
+     "inicio": 14.678,
+     "fin": 14.828
+    },
+    {
+     "w": "despierta",
+     "inicio": 14.828,
+     "fin": 15.329
+    },
+    {
+     "w": "solo.",
+     "inicio": 15.329,
+     "fin": 15.579
+    }
+   ],
+   "texto_pantalla": "Mi agente de Claude se despierta solo.",
+   "palabras_pantalla": [
+    {
+     "w": "Mi",
+     "inicio": 13.775,
+     "fin": 13.917
+    },
+    {
+     "w": "agente",
+     "inicio": 13.917,
+     "fin": 14.25
+    },
+    {
+     "w": "de",
+     "inicio": 14.25,
+     "fin": 14.392
+    },
+    {
+     "w": "Claude",
+     "inicio": 14.392,
+     "fin": 14.724
+    },
+    {
+     "w": "se",
+     "inicio": 14.724,
+     "fin": 14.867
+    },
+    {
+     "w": "despierta",
+     "inicio": 14.867,
+     "fin": 15.342
+    },
+    {
+     "w": "solo.",
+     "inicio": 15.342,
+     "fin": 15.579
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "texto": "Investiga temas de inteligencia artificial…",
+   "inicio": 15.772,
+   "fin": 17.665,
+   "palabras": [
+    {
+     "w": "Investiga",
+     "inicio": 15.772,
+     "fin": 16.212
+    },
+    {
+     "w": "temas",
+     "inicio": 16.212,
+     "fin": 16.477
+    },
+    {
+     "w": "de",
+     "inicio": 16.477,
+     "fin": 16.608
+    },
+    {
+     "w": "inteligencia",
+     "inicio": 16.608,
+     "fin": 17.181
+    },
+    {
+     "w": "artificial…",
+     "inicio": 17.181,
+     "fin": 17.665
+    }
+   ],
+   "texto_pantalla": "Investiga temas de IA…",
+   "palabras_pantalla": [
+    {
+     "w": "Investiga",
+     "inicio": 15.772,
+     "fin": 16.632
+    },
+    {
+     "w": "temas",
+     "inicio": 16.632,
+     "fin": 17.149
+    },
+    {
+     "w": "de",
+     "inicio": 17.149,
+     "fin": 17.407
+    },
+    {
+     "w": "IA…",
+     "inicio": 17.407,
+     "fin": 17.665
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "texto": "y escribe tres guiones.",
+   "inicio": 17.94,
+   "fin": 19.14,
+   "palabras": [
+    {
+     "w": "y",
+     "inicio": 17.94,
+     "fin": 18.045
+    },
+    {
+     "w": "escribe",
+     "inicio": 18.045,
+     "fin": 18.462
+    },
+    {
+     "w": "tres",
+     "inicio": 18.462,
+     "fin": 18.723
+    },
+    {
+     "w": "guiones.",
+     "inicio": 18.723,
+     "fin": 19.14
+    }
+   ],
+   "texto_pantalla": "y escribe 3 guiones.",
+   "palabras_pantalla": [
+    {
+     "w": "y",
+     "inicio": 17.94,
+     "fin": 18.06
+    },
+    {
+     "w": "escribe",
+     "inicio": 18.06,
+     "fin": 18.54
+    },
+    {
+     "w": "3",
+     "inicio": 18.54,
+     "fin": 18.66
+    },
+    {
+     "w": "guiones.",
+     "inicio": 18.66,
+     "fin": 19.14
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "texto": "Dos.",
+   "inicio": 19.553,
+   "fin": 20.078,
+   "palabras": [
+    {
+     "w": "Dos.",
+     "inicio": 19.553,
+     "fin": 20.078
+    }
+   ],
+   "texto_pantalla": "Dos.",
+   "palabras_pantalla": [
+    {
+     "w": "Dos.",
+     "inicio": 19.553,
+     "fin": 20.078
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "texto": "La voz.",
+   "inicio": 20.188,
+   "fin": 20.854,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 20.188,
+     "fin": 20.473
+    },
+    {
+     "w": "voz.",
+     "inicio": 20.473,
+     "fin": 20.854
+    }
+   ],
+   "texto_pantalla": "La voz.",
+   "palabras_pantalla": [
+    {
+     "w": "La",
+     "inicio": 20.188,
+     "fin": 20.473
+    },
+    {
+     "w": "voz.",
+     "inicio": 20.473,
+     "fin": 20.854
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "texto": "Un modelo de Jáguin Feis escucha diez segundos de mi voz…",
+   "inicio": 21.047,
+   "fin": 23.607,
+   "palabras": [
+    {
+     "w": "Un",
+     "inicio": 21.047,
+     "fin": 21.181
+    },
+    {
+     "w": "modelo",
+     "inicio": 21.181,
+     "fin": 21.496
+    },
+    {
+     "w": "de",
+     "inicio": 21.496,
+     "fin": 21.63
+    },
+    {
+     "w": "Jáguin",
+     "inicio": 21.63,
+     "fin": 21.945
+    },
+    {
+     "w": "Feis",
+     "inicio": 21.945,
+     "fin": 22.169
+    },
+    {
+     "w": "escucha",
+     "inicio": 22.169,
+     "fin": 22.528
+    },
+    {
+     "w": "diez",
+     "inicio": 22.528,
+     "fin": 22.753
+    },
+    {
+     "w": "segundos",
+     "inicio": 22.753,
+     "fin": 23.158
+    },
+    {
+     "w": "de",
+     "inicio": 23.158,
+     "fin": 23.292
+    },
+    {
+     "w": "mi",
+     "inicio": 23.292,
+     "fin": 23.427
+    },
+    {
+     "w": "voz…",
+     "inicio": 23.427,
+     "fin": 23.607
+    }
+   ],
+   "texto_pantalla": "Un modelo de Hugging Face escucha 10 segundos de mi voz…",
+   "palabras_pantalla": [
+    {
+     "w": "Un",
+     "inicio": 21.047,
+     "fin": 21.184
+    },
+    {
+     "w": "modelo",
+     "inicio": 21.184,
+     "fin": 21.504
+    },
+    {
+     "w": "de",
+     "inicio": 21.504,
+     "fin": 21.641
+    },
+    {
+     "w": "Hugging",
+     "inicio": 21.641,
+     "fin": 22.007
+    },
+    {
+     "w": "Face",
+     "inicio": 22.007,
+     "fin": 22.236
+    },
+    {
+     "w": "escucha",
+     "inicio": 22.236,
+     "fin": 22.601
+    },
+    {
+     "w": "10",
+     "inicio": 22.601,
+     "fin": 22.738
+    },
+    {
+     "w": "segundos",
+     "inicio": 22.738,
+     "fin": 23.15
+    },
+    {
+     "w": "de",
+     "inicio": 23.15,
+     "fin": 23.287
+    },
+    {
+     "w": "mi",
+     "inicio": 23.287,
+     "fin": 23.424
+    },
+    {
+     "w": "voz…",
+     "inicio": 23.424,
+     "fin": 23.607
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "texto": "y la clona.",
+   "inicio": 23.882,
+   "fin": 24.53,
+   "palabras": [
+    {
+     "w": "y",
+     "inicio": 23.882,
+     "fin": 23.999
+    },
+    {
+     "w": "la",
+     "inicio": 23.999,
+     "fin": 24.177
+    },
+    {
+     "w": "clona.",
+     "inicio": 24.177,
+     "fin": 24.53
+    }
+   ],
+   "texto_pantalla": "y la clona.",
+   "palabras_pantalla": [
+    {
+     "w": "y",
+     "inicio": 23.882,
+     "fin": 24.0
+    },
+    {
+     "w": "la",
+     "inicio": 24.0,
+     "fin": 24.177
+    },
+    {
+     "w": "clona.",
+     "inicio": 24.177,
+     "fin": 24.53
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "texto": "Las primeras pruebas sonaban a robot de banco.",
+   "inicio": 24.723,
+   "fin": 26.705,
+   "palabras": [
+    {
+     "w": "Las",
+     "inicio": 24.723,
+     "fin": 24.895
+    },
+    {
+     "w": "primeras",
+     "inicio": 24.895,
+     "fin": 25.283
+    },
+    {
+     "w": "pruebas",
+     "inicio": 25.283,
+     "fin": 25.628
+    },
+    {
+     "w": "sonaban",
+     "inicio": 25.628,
+     "fin": 25.973
+    },
+    {
+     "w": "a",
+     "inicio": 25.973,
+     "fin": 26.058
+    },
+    {
+     "w": "robot",
+     "inicio": 26.058,
+     "fin": 26.317
+    },
+    {
+     "w": "de",
+     "inicio": 26.317,
+     "fin": 26.447
+    },
+    {
+     "w": "banco.",
+     "inicio": 26.447,
+     "fin": 26.705
+    }
+   ],
+   "texto_pantalla": "Las primeras pruebas sonaban a robot de banco.",
+   "palabras_pantalla": [
+    {
+     "w": "Las",
+     "inicio": 24.723,
+     "fin": 24.895
+    },
+    {
+     "w": "primeras",
+     "inicio": 24.895,
+     "fin": 25.283
+    },
+    {
+     "w": "pruebas",
+     "inicio": 25.283,
+     "fin": 25.628
+    },
+    {
+     "w": "sonaban",
+     "inicio": 25.628,
+     "fin": 25.973
+    },
+    {
+     "w": "a",
+     "inicio": 25.973,
+     "fin": 26.059
+    },
+    {
+     "w": "robot",
+     "inicio": 26.059,
+     "fin": 26.317
+    },
+    {
+     "w": "de",
+     "inicio": 26.317,
+     "fin": 26.446
+    },
+    {
+     "w": "banco.",
+     "inicio": 26.446,
+     "fin": 26.705
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "texto": "Le enseñé a hacer pausas…",
+   "inicio": 26.898,
+   "fin": 28.125,
+   "palabras": [
+    {
+     "w": "Le",
+     "inicio": 26.898,
+     "fin": 27.046
+    },
+    {
+     "w": "enseñé",
+     "inicio": 27.046,
+     "fin": 27.389
+    },
+    {
+     "w": "a",
+     "inicio": 27.389,
+     "fin": 27.488
+    },
+    {
+     "w": "hacer",
+     "inicio": 27.488,
+     "fin": 27.782
+    },
+    {
+     "w": "pausas…",
+     "inicio": 27.782,
+     "fin": 28.125
+    }
+   ],
+   "texto_pantalla": "Le enseñé a hacer pausas…",
+   "palabras_pantalla": [
+    {
+     "w": "Le",
+     "inicio": 26.898,
+     "fin": 27.046
+    },
+    {
+     "w": "enseñé",
+     "inicio": 27.046,
+     "fin": 27.389
+    },
+    {
+     "w": "a",
+     "inicio": 27.389,
+     "fin": 27.488
+    },
+    {
+     "w": "hacer",
+     "inicio": 27.488,
+     "fin": 27.782
+    },
+    {
+     "w": "pausas…",
+     "inicio": 27.782,
+     "fin": 28.125
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "texto": "y a meterle energía.",
+   "inicio": 28.4,
+   "fin": 29.36,
+   "palabras": [
+    {
+     "w": "y",
+     "inicio": 28.4,
+     "fin": 28.496
+    },
+    {
+     "w": "a",
+     "inicio": 28.496,
+     "fin": 28.592
+    },
+    {
+     "w": "meterle",
+     "inicio": 28.592,
+     "fin": 28.976
+    },
+    {
+     "w": "energía.",
+     "inicio": 28.976,
+     "fin": 29.36
+    }
+   ],
+   "texto_pantalla": "y a meterle energía.",
+   "palabras_pantalla": [
+    {
+     "w": "y",
+     "inicio": 28.4,
+     "fin": 28.496
+    },
+    {
+     "w": "a",
+     "inicio": 28.496,
+     "fin": 28.592
+    },
+    {
+     "w": "meterle",
+     "inicio": 28.592,
+     "fin": 28.976
+    },
+    {
+     "w": "energía.",
+     "inicio": 28.976,
+     "fin": 29.36
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "texto": "¡Así!",
+   "inicio": 29.47,
+   "fin": 29.933,
+   "palabras": [
+    {
+     "w": "¡Así!",
+     "inicio": 29.47,
+     "fin": 29.933
+    }
+   ],
+   "texto_pantalla": "¡Así!",
+   "palabras_pantalla": [
+    {
+     "w": "¡Así!",
+     "inicio": 29.47,
+     "fin": 29.933
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "texto": "Tres.",
+   "inicio": 30.345,
+   "fin": 30.736,
+   "palabras": [
+    {
+     "w": "Tres.",
+     "inicio": 30.345,
+     "fin": 30.736
+    }
+   ],
+   "texto_pantalla": "Tres.",
+   "palabras_pantalla": [
+    {
+     "w": "Tres.",
+     "inicio": 30.345,
+     "fin": 30.736
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "texto": "El video.",
+   "inicio": 30.846,
+   "fin": 31.566,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 30.846,
+     "fin": 31.086
+    },
+    {
+     "w": "video.",
+     "inicio": 31.086,
+     "fin": 31.566
+    }
+   ],
+   "texto_pantalla": "El video.",
+   "palabras_pantalla": [
+    {
+     "w": "El",
+     "inicio": 30.846,
+     "fin": 31.086
+    },
+    {
+     "w": "video.",
+     "inicio": 31.086,
+     "fin": 31.566
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "texto": "Animaciones, efectos y subtítulos.",
+   "inicio": 31.759,
+   "fin": 33.688,
+   "palabras": [
+    {
+     "w": "Animaciones,",
+     "inicio": 31.759,
+     "fin": 32.46
+    },
+    {
+     "w": "efectos",
+     "inicio": 32.46,
+     "fin": 32.928
+    },
+    {
+     "w": "y",
+     "inicio": 32.928,
+     "fin": 33.044
+    },
+    {
+     "w": "subtítulos.",
+     "inicio": 33.044,
+     "fin": 33.688
+    }
+   ],
+   "texto_pantalla": "Animaciones, efectos y subtítulos.",
+   "palabras_pantalla": [
+    {
+     "w": "Animaciones,",
+     "inicio": 31.759,
+     "fin": 32.46
+    },
+    {
+     "w": "efectos",
+     "inicio": 32.46,
+     "fin": 32.928
+    },
+    {
+     "w": "y",
+     "inicio": 32.928,
+     "fin": 33.045
+    },
+    {
+     "w": "subtítulos.",
+     "inicio": 33.045,
+     "fin": 33.688
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "texto": "Todo es código.",
+   "inicio": 33.798,
+   "fin": 34.811,
+   "palabras": [
+    {
+     "w": "Todo",
+     "inicio": 33.798,
+     "fin": 34.135
+    },
+    {
+     "w": "es",
+     "inicio": 34.135,
+     "fin": 34.338
+    },
+    {
+     "w": "código.",
+     "inicio": 34.338,
+     "fin": 34.811
+    }
+   ],
+   "texto_pantalla": "Todo es código.",
+   "palabras_pantalla": [
+    {
+     "w": "Todo",
+     "inicio": 33.798,
+     "fin": 34.136
+    },
+    {
+     "w": "es",
+     "inicio": 34.136,
+     "fin": 34.338
+    },
+    {
+     "w": "código.",
+     "inicio": 34.338,
+     "fin": 34.811
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "texto": "Cada palabra aparece justo cuando la digo…",
+   "inicio": 35.004,
+   "fin": 36.737,
+   "palabras": [
+    {
+     "w": "Cada",
+     "inicio": 35.004,
+     "fin": 35.209
+    },
+    {
+     "w": "palabra",
+     "inicio": 35.209,
+     "fin": 35.539
+    },
+    {
+     "w": "aparece",
+     "inicio": 35.539,
+     "fin": 35.87
+    },
+    {
+     "w": "justo",
+     "inicio": 35.87,
+     "fin": 36.118
+    },
+    {
+     "w": "cuando",
+     "inicio": 36.118,
+     "fin": 36.406
+    },
+    {
+     "w": "la",
+     "inicio": 36.406,
+     "fin": 36.53
+    },
+    {
+     "w": "digo…",
+     "inicio": 36.53,
+     "fin": 36.737
+    }
+   ],
+   "texto_pantalla": "Cada palabra aparece justo cuando la digo…",
+   "palabras_pantalla": [
+    {
+     "w": "Cada",
+     "inicio": 35.004,
+     "fin": 35.21
+    },
+    {
+     "w": "palabra",
+     "inicio": 35.21,
+     "fin": 35.54
+    },
+    {
+     "w": "aparece",
+     "inicio": 35.54,
+     "fin": 35.871
+    },
+    {
+     "w": "justo",
+     "inicio": 35.871,
+     "fin": 36.118
+    },
+    {
+     "w": "cuando",
+     "inicio": 36.118,
+     "fin": 36.407
+    },
+    {
+     "w": "la",
+     "inicio": 36.407,
+     "fin": 36.531
+    },
+    {
+     "w": "digo…",
+     "inicio": 36.531,
+     "fin": 36.737
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "texto": "como esta.",
+   "inicio": 37.012,
+   "fin": 37.759,
+   "palabras": [
+    {
+     "w": "como",
+     "inicio": 37.012,
+     "fin": 37.385
+    },
+    {
+     "w": "esta.",
+     "inicio": 37.385,
+     "fin": 37.759
+    }
+   ],
+   "texto_pantalla": "como esta.",
+   "palabras_pantalla": [
+    {
+     "w": "como",
+     "inicio": 37.012,
+     "fin": 37.385
+    },
+    {
+     "w": "esta.",
+     "inicio": 37.385,
+     "fin": 37.759
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "texto": "Cuatro.",
+   "inicio": 38.171,
+   "fin": 38.571,
+   "palabras": [
+    {
+     "w": "Cuatro.",
+     "inicio": 38.171,
+     "fin": 38.571
+    }
+   ],
+   "texto_pantalla": "Cuatro.",
+   "palabras_pantalla": [
+    {
+     "w": "Cuatro.",
+     "inicio": 38.171,
+     "fin": 38.571
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "texto": "La música.",
+   "inicio": 38.681,
+   "fin": 39.348,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 38.681,
+     "fin": 38.881
+    },
+    {
+     "w": "música.",
+     "inicio": 38.881,
+     "fin": 39.348
+    }
+   ],
+   "texto_pantalla": "La música.",
+   "palabras_pantalla": [
+    {
+     "w": "La",
+     "inicio": 38.681,
+     "fin": 38.881
+    },
+    {
+     "w": "música.",
+     "inicio": 38.881,
+     "fin": 39.348
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "texto": "La elige sola, sin copyright.",
+   "inicio": 39.54,
+   "fin": 41.033,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 39.54,
+     "fin": 39.7
+    },
+    {
+     "w": "elige",
+     "inicio": 39.7,
+     "fin": 40.02
+    },
+    {
+     "w": "sola,",
+     "inicio": 40.02,
+     "fin": 40.287
+    },
+    {
+     "w": "sin",
+     "inicio": 40.287,
+     "fin": 40.5
+    },
+    {
+     "w": "copyright.",
+     "inicio": 40.5,
+     "fin": 41.033
+    }
+   ],
+   "texto_pantalla": "La elige sola, sin copyright.",
+   "palabras_pantalla": [
+    {
+     "w": "La",
+     "inicio": 39.54,
+     "fin": 39.7
+    },
+    {
+     "w": "elige",
+     "inicio": 39.7,
+     "fin": 40.02
+    },
+    {
+     "w": "sola,",
+     "inicio": 40.02,
+     "fin": 40.286
+    },
+    {
+     "w": "sin",
+     "inicio": 40.286,
+     "fin": 40.5
+    },
+    {
+     "w": "copyright.",
+     "inicio": 40.5,
+     "fin": 41.033
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "texto": "Porque si le pego una canción famosa…",
+   "inicio": 41.226,
+   "fin": 42.808,
+   "palabras": [
+    {
+     "w": "Porque",
+     "inicio": 41.226,
+     "fin": 41.525
+    },
+    {
+     "w": "si",
+     "inicio": 41.525,
+     "fin": 41.653
+    },
+    {
+     "w": "le",
+     "inicio": 41.653,
+     "fin": 41.782
+    },
+    {
+     "w": "pego",
+     "inicio": 41.782,
+     "fin": 41.995
+    },
+    {
+     "w": "una",
+     "inicio": 41.995,
+     "fin": 42.167
+    },
+    {
+     "w": "canción",
+     "inicio": 42.167,
+     "fin": 42.509
+    },
+    {
+     "w": "famosa…",
+     "inicio": 42.509,
+     "fin": 42.808
+    }
+   ],
+   "texto_pantalla": "Porque si le pego una canción famosa…",
+   "palabras_pantalla": [
+    {
+     "w": "Porque",
+     "inicio": 41.226,
+     "fin": 41.525
+    },
+    {
+     "w": "si",
+     "inicio": 41.525,
+     "fin": 41.654
+    },
+    {
+     "w": "le",
+     "inicio": 41.654,
+     "fin": 41.782
+    },
+    {
+     "w": "pego",
+     "inicio": 41.782,
+     "fin": 41.996
+    },
+    {
+     "w": "una",
+     "inicio": 41.996,
+     "fin": 42.167
+    },
+    {
+     "w": "canción",
+     "inicio": 42.167,
+     "fin": 42.509
+    },
+    {
+     "w": "famosa…",
+     "inicio": 42.509,
+     "fin": 42.808
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "texto": "la plataforma me silencia el video.",
+   "inicio": 43.083,
+   "fin": 44.826,
+   "palabras": [
+    {
+     "w": "la",
+     "inicio": 43.083,
+     "fin": 43.233
+    },
+    {
+     "w": "plataforma",
+     "inicio": 43.233,
+     "fin": 43.78
+    },
+    {
+     "w": "me",
+     "inicio": 43.78,
+     "fin": 43.929
+    },
+    {
+     "w": "silencia",
+     "inicio": 43.929,
+     "fin": 44.378
+    },
+    {
+     "w": "el",
+     "inicio": 44.378,
+     "fin": 44.527
+    },
+    {
+     "w": "video.",
+     "inicio": 44.527,
+     "fin": 44.826
+    }
+   ],
+   "texto_pantalla": "la plataforma me silencia el video.",
+   "palabras_pantalla": [
+    {
+     "w": "la",
+     "inicio": 43.083,
+     "fin": 43.233
+    },
+    {
+     "w": "plataforma",
+     "inicio": 43.233,
+     "fin": 43.78
+    },
+    {
+     "w": "me",
+     "inicio": 43.78,
+     "fin": 43.929
+    },
+    {
+     "w": "silencia",
+     "inicio": 43.929,
+     "fin": 44.378
+    },
+    {
+     "w": "el",
+     "inicio": 44.378,
+     "fin": 44.527
+    },
+    {
+     "w": "video.",
+     "inicio": 44.527,
+     "fin": 44.826
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "texto": "Cinco.",
+   "inicio": 45.238,
+   "fin": 45.949,
+   "palabras": [
+    {
+     "w": "Cinco.",
+     "inicio": 45.238,
+     "fin": 45.949
+    }
+   ],
+   "texto_pantalla": "Cinco.",
+   "palabras_pantalla": [
+    {
+     "w": "Cinco.",
+     "inicio": 45.238,
+     "fin": 45.949
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "texto": "El revisor.",
+   "inicio": 46.059,
+   "fin": 46.61,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 46.059,
+     "fin": 46.21
+    },
+    {
+     "w": "revisor.",
+     "inicio": 46.21,
+     "fin": 46.61
+    }
+   ],
+   "texto_pantalla": "El revisor.",
+   "palabras_pantalla": [
+    {
+     "w": "El",
+     "inicio": 46.059,
+     "fin": 46.209
+    },
+    {
+     "w": "revisor.",
+     "inicio": 46.209,
+     "fin": 46.61
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "texto": "Revisa textos cortados, volumen y colores.",
+   "inicio": 46.803,
+   "fin": 49.238,
+   "palabras": [
+    {
+     "w": "Revisa",
+     "inicio": 46.803,
+     "fin": 47.219
+    },
+    {
+     "w": "textos",
+     "inicio": 47.219,
+     "fin": 47.635
+    },
+    {
+     "w": "cortados,",
+     "inicio": 47.635,
+     "fin": 48.169
+    },
+    {
+     "w": "volumen",
+     "inicio": 48.169,
+     "fin": 48.644
+    },
+    {
+     "w": "y",
+     "inicio": 48.644,
+     "fin": 48.763
+    },
+    {
+     "w": "colores.",
+     "inicio": 48.763,
+     "fin": 49.238
+    }
+   ],
+   "texto_pantalla": "Revisa textos cortados, volumen y colores.",
+   "palabras_pantalla": [
+    {
+     "w": "Revisa",
+     "inicio": 46.803,
+     "fin": 47.219
+    },
+    {
+     "w": "textos",
+     "inicio": 47.219,
+     "fin": 47.634
+    },
+    {
+     "w": "cortados,",
+     "inicio": 47.634,
+     "fin": 48.169
+    },
+    {
+     "w": "volumen",
+     "inicio": 48.169,
+     "fin": 48.644
+    },
+    {
+     "w": "y",
+     "inicio": 48.644,
+     "fin": 48.763
+    },
+    {
+     "w": "colores.",
+     "inicio": 48.763,
+     "fin": 49.238
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "texto": "Si algo falla…",
+   "inicio": 49.431,
+   "fin": 50.213,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 49.431,
+     "fin": 49.598
+    },
+    {
+     "w": "algo",
+     "inicio": 49.598,
+     "fin": 49.878
+    },
+    {
+     "w": "falla…",
+     "inicio": 49.878,
+     "fin": 50.213
+    }
+   ],
+   "texto_pantalla": "Si algo falla…",
+   "palabras_pantalla": [
+    {
+     "w": "Si",
+     "inicio": 49.431,
+     "fin": 49.599
+    },
+    {
+     "w": "algo",
+     "inicio": 49.599,
+     "fin": 49.878
+    },
+    {
+     "w": "falla…",
+     "inicio": 49.878,
+     "fin": 50.213
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "texto": "Clod lo arregla y lo vuelve a hacer.",
+   "inicio": 50.488,
+   "fin": 51.955,
+   "palabras": [
+    {
+     "w": "Clod",
+     "inicio": 50.488,
+     "fin": 50.691
+    },
+    {
+     "w": "lo",
+     "inicio": 50.691,
+     "fin": 50.814
+    },
+    {
+     "w": "arregla",
+     "inicio": 50.814,
+     "fin": 51.14
+    },
+    {
+     "w": "y",
+     "inicio": 51.14,
+     "fin": 51.221
+    },
+    {
+     "w": "lo",
+     "inicio": 51.221,
+     "fin": 51.344
+    },
+    {
+     "w": "vuelve",
+     "inicio": 51.344,
+     "fin": 51.629
+    },
+    {
+     "w": "a",
+     "inicio": 51.629,
+     "fin": 51.711
+    },
+    {
+     "w": "hacer.",
+     "inicio": 51.711,
+     "fin": 51.955
+    }
+   ],
+   "texto_pantalla": "Claude lo arregla y lo vuelve a hacer.",
+   "palabras_pantalla": [
+    {
+     "w": "Claude",
+     "inicio": 50.488,
+     "fin": 50.758
+    },
+    {
+     "w": "lo",
+     "inicio": 50.758,
+     "fin": 50.874
+    },
+    {
+     "w": "arregla",
+     "inicio": 50.874,
+     "fin": 51.183
+    },
+    {
+     "w": "y",
+     "inicio": 51.183,
+     "fin": 51.26
+    },
+    {
+     "w": "lo",
+     "inicio": 51.26,
+     "fin": 51.376
+    },
+    {
+     "w": "vuelve",
+     "inicio": 51.376,
+     "fin": 51.646
+    },
+    {
+     "w": "a",
+     "inicio": 51.646,
+     "fin": 51.723
+    },
+    {
+     "w": "hacer.",
+     "inicio": 51.723,
+     "fin": 51.955
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "texto": "En la mañana…",
+   "inicio": 52.367,
+   "fin": 53.22,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 52.367,
+     "fin": 52.564
+    },
+    {
+     "w": "la",
+     "inicio": 52.564,
+     "fin": 52.761
+    },
+    {
+     "w": "mañana…",
+     "inicio": 52.761,
+     "fin": 53.22
+    }
+   ],
+   "texto_pantalla": "En la mañana…",
+   "palabras_pantalla": [
+    {
+     "w": "En",
+     "inicio": 52.367,
+     "fin": 52.564
+    },
+    {
+     "w": "la",
+     "inicio": 52.564,
+     "fin": 52.761
+    },
+    {
+     "w": "mañana…",
+     "inicio": 52.761,
+     "fin": 53.22
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "texto": "tengo tres videos esperándome.",
+   "inicio": 53.495,
+   "fin": 55.051,
+   "palabras": [
+    {
+     "w": "tengo",
+     "inicio": 53.495,
+     "fin": 53.806
+    },
+    {
+     "w": "tres",
+     "inicio": 53.806,
+     "fin": 54.066
+    },
+    {
+     "w": "videos",
+     "inicio": 54.066,
+     "fin": 54.429
+    },
+    {
+     "w": "esperándome.",
+     "inicio": 54.429,
+     "fin": 55.051
+    }
+   ],
+   "texto_pantalla": "tengo 3 videos esperándome.",
+   "palabras_pantalla": [
+    {
+     "w": "tengo",
+     "inicio": 53.495,
+     "fin": 53.841
+    },
+    {
+     "w": "3",
+     "inicio": 53.841,
+     "fin": 53.956
+    },
+    {
+     "w": "videos",
+     "inicio": 53.956,
+     "fin": 54.359
+    },
+    {
+     "w": "esperándome.",
+     "inicio": 54.359,
+     "fin": 55.051
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "texto": "La inteligencia artificial hace la chamba pesada…",
+   "inicio": 55.244,
+   "fin": 57.27,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 55.244,
+     "fin": 55.368
+    },
+    {
+     "w": "inteligencia",
+     "inicio": 55.368,
+     "fin": 55.906
+    },
+    {
+     "w": "artificial",
+     "inicio": 55.906,
+     "fin": 56.36
+    },
+    {
+     "w": "hace",
+     "inicio": 56.36,
+     "fin": 56.567
+    },
+    {
+     "w": "la",
+     "inicio": 56.567,
+     "fin": 56.691
+    },
+    {
+     "w": "chamba",
+     "inicio": 56.691,
+     "fin": 56.98
+    },
+    {
+     "w": "pesada…",
+     "inicio": 56.98,
+     "fin": 57.27
+    }
+   ],
+   "texto_pantalla": "La IA hace la chamba pesada…",
+   "palabras_pantalla": [
+    {
+     "w": "La",
+     "inicio": 55.244,
+     "fin": 55.461
+    },
+    {
+     "w": "IA",
+     "inicio": 55.461,
+     "fin": 55.678
+    },
+    {
+     "w": "hace",
+     "inicio": 55.678,
+     "fin": 56.04
+    },
+    {
+     "w": "la",
+     "inicio": 56.04,
+     "fin": 56.257
+    },
+    {
+     "w": "chamba",
+     "inicio": 56.257,
+     "fin": 56.764
+    },
+    {
+     "w": "pesada…",
+     "inicio": 56.764,
+     "fin": 57.27
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "texto": "¡y yo elijo cuál sube, amigo!",
+   "inicio": 57.545,
+   "fin": 59.474,
+   "palabras": [
+    {
+     "w": "¡y",
+     "inicio": 57.545,
+     "fin": 57.694
+    },
+    {
+     "w": "yo",
+     "inicio": 57.694,
+     "fin": 57.916
+    },
+    {
+     "w": "elijo",
+     "inicio": 57.916,
+     "fin": 58.361
+    },
+    {
+     "w": "cuál",
+     "inicio": 58.361,
+     "fin": 58.732
+    },
+    {
+     "w": "sube,",
+     "inicio": 58.732,
+     "fin": 59.103
+    },
+    {
+     "w": "amigo!",
+     "inicio": 59.103,
+     "fin": 59.474
+    }
+   ],
+   "texto_pantalla": "¡y yo elijo cuál sube, amigo!",
+   "palabras_pantalla": [
+    {
+     "w": "¡y",
+     "inicio": 57.545,
+     "fin": 57.693
+    },
+    {
+     "w": "yo",
+     "inicio": 57.693,
+     "fin": 57.916
+    },
+    {
+     "w": "elijo",
+     "inicio": 57.916,
+     "fin": 58.361
+    },
+    {
+     "w": "cuál",
+     "inicio": 58.361,
+     "fin": 58.732
+    },
+    {
+     "w": "sube,",
+     "inicio": 58.732,
+     "fin": 59.103
+    },
+    {
+     "w": "amigo!",
+     "inicio": 59.103,
+     "fin": 59.474
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "texto": "Sígueme para más ideas así.",
+   "inicio": 59.666,
+   "fin": 61.595,
+   "palabras": [
+    {
+     "w": "Sígueme",
+     "inicio": 59.666,
+     "fin": 60.032
+    },
+    {
+     "w": "para",
+     "inicio": 60.052,
+     "fin": 60.418
+    },
+    {
+     "w": "más",
+     "inicio": 60.438,
+     "fin": 60.803
+    },
+    {
+     "w": "ideas",
+     "inicio": 60.823,
+     "fin": 61.189
+    },
+    {
+     "w": "así.",
+     "inicio": 61.209,
+     "fin": 61.575
+    }
+   ],
+   "texto_pantalla": "Sígueme para más ideas así.",
+   "palabras_pantalla": [
+    {
+     "w": "Sígueme",
+     "inicio": 59.666,
+     "fin": 60.032
+    },
+    {
+     "w": "para",
+     "inicio": 60.052,
+     "fin": 60.418
+    },
+    {
+     "w": "más",
+     "inicio": 60.438,
+     "fin": 60.803
+    },
+    {
+     "w": "ideas",
+     "inicio": 60.823,
+     "fin": 61.189
+    },
+    {
+     "w": "así.",
+     "inicio": 61.209,
+     "fin": 61.575
+    }
+   ]
+  }
+ ]
+}

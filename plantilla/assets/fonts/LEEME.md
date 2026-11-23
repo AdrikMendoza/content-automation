@@ -1,0 +1,1 @@
+Fuentes por defecto: Inter, Inter Tight y JetBrains Mono (SIL Open Font License 1.1, vía @fontsource). Para cambiarlas, copia los .woff2 de tu fuente con estos mismos nombres (titulo-600, titulo-700, cifras-600, mono-500, mono-700).

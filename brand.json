@@ -1,0 +1,31 @@
+{
+ "configurado": false,
+ "nombre": "TU MARCA",
+ "cta": "SÍGUEME PARA MÁS",
+ "idioma": "es-latam",
+ "colores": {
+  "fondo": "#0b0d12",
+  "fondo_luz": "#1b1f2a",
+  "tarjeta": "#161922",
+  "texto": "#f5f5f5",
+  "secundario": "#8c8c8c",
+  "acento": "#3366ff",
+  "acento2": "#99b3ff"
+ },
+ "fuentes": {
+  "titulo": "Inter",
+  "cifras": "Inter Tight",
+  "mono": "JetBrains Mono"
+ },
+ "estilo": {
+  "opuscar": "dark-keynote",
+  "movimiento": "alto",
+  "notas": ""
+ },
+ "voz": {
+  "acento": "es-mx-latam",
+  "velocidad": 1.2
+ },
+ "lienzo": { "ancho": 1080, "alto": 1920, "fps": 30 },
+ "audio": { "lufs": -14, "true_peak": -1, "musica_lufs": -19 }
+}
